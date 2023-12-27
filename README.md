@@ -1,7 +1,5 @@
 # Budget Pokémon Go
 
-![Hero img](./screenshots/home.png)
-
 - A clone version of Pokémon Go game.
 - This app could be used for entertainment purpose or user who are interested in knowing
   more about Pokémon’s information.
@@ -13,10 +11,10 @@
 - [Author](#author)
 
 ## Screenshots
-### Pokemon maps & catching
+### Pokemon Maps & Catching
 <p float="left">
-  <img src="./screenshots/home.png" width="400">
-  <img src="./screenshots/catch.png" width="400">
+  <img src="./screenshots/home.png" alt="Maps" width="400">
+  <img src="./screenshots/catch.png" alt="Catching" width="400">
 </p>
 
 ### Pokedex
